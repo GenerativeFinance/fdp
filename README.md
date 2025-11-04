@@ -203,7 +203,7 @@ Issues? Open a ticket. Questions? Join our Discord/Slack (TBD).
 
 ## 📄 License
 
-Apache 2.0 © 2025 GeFi Technologies. See <LICENSE> for details. Contributions under the same.
+Apache 2.0 © 2025 GeFi Technologies pte ltd. See <LICENSE> for details. Contributions under the same.
 
 ## 🔗 Related Resources
 
